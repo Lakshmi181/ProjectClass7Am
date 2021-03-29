@@ -14,6 +14,9 @@ public class Data {
 		System.out.println(s1);
 		System.out.println("Address of new  s1 : " + System.identityHashCode(s1));
 
+		
+		System.out.println("tc1");
+		System.out.println("tc2");
 	}
 
 }
